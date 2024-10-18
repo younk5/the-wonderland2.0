@@ -1,0 +1,19 @@
+{
+    "token": "MTE0Mzk2NjI0NjQ4NDg0MDQ2OA.Gbs56H.I5Whjm_NlbhsYkYAVBpayuQsTtO4mQZFc6nqtQ",
+    "clientId": "1143966246484840468",
+    "guildId": "1289688367700774954",
+    "mongodb_uri": "mongodb+srv://younkzed:xfP5vVfzZZgL65Xt@cluster0.xz9sw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "ticketCategory": "1289688933361520764",
+    "staffRole": "1289688544402473122",
+    "leaderboardChannel": "1291492191415435367",
+    "colors": {
+        "primary": "#0099ff",
+        "success": "#00ff00",
+        "error": "#ff0000"
+    },
+    "emojis": {
+        "cart": "🛒",
+        "ticket": "🎫",
+        "money": "💰"
+    }
+}
